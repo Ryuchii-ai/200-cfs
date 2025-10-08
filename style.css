@@ -63,7 +63,7 @@ body {
 .panda {
   width: 100px;
   position: absolute;
-  bottom: 10px;
+  bottom: 70px;
   left: 50%;
   transform: translateX(-50%);
   animation: pandaDance 3s infinite ease-in-out;
@@ -85,3 +85,4 @@ body {
   pointer-events: none;
   z-index: 1;
 }
+
